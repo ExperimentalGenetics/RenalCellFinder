@@ -6,7 +6,7 @@ This repository contains the code and resources for detecting Ki67 markers in th
 
 ## Introduction
 
-Ki67 is a nuclear protein that is associated with cellular proliferation. It is commonly used as a proliferation marker in cancer diagnostics and research. This project focuses on detecting and quantifying Ki67 markers in the kidney cortex, which is important for studying kidney diseases, particularly those involving cell proliferation.
+Ki67 is a nuclear protein that is associated with cellular proliferation. It is commonly used as a proliferation marker in cancer diagnostics and research. This project focuses on detecting and quantifying Ki67 markers in the kidney cortex, which is important for studying kidney diseases, particularly those involving changes in cell proliferation rate.
 
 The project involves multiple stages:
 
@@ -14,7 +14,7 @@ The project involves multiple stages:
 2. **Processing:** Detecting and isolating glomeruli, and extracting the kidney cortex.
 3. **Postprocessing:** Identifying Ki67 markers and quantifying the detected Ki67 markers to provide meaningful data for further analysis.
 
-By automating these steps, this project aims to provide a robust and accurate method for Ki67 marker detection
+By automating these steps, this project aims to provide a robust and accurate method for Ki67 marker detection in specific kidney region.
 
 ## Features
 
