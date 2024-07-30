@@ -89,7 +89,7 @@ The Image Registration Module can be used in a variety of applications, includin
 
 # Image Resizing by Factor
 
-This repository contains a Python script to resize images by a given factor while maintaining their aspect ratio using the OpenCV library.
+This Python script is used to resize images by a given factor while maintaining their aspect ratio using the OpenCV library.
 
 ## Features
 
