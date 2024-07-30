@@ -20,8 +20,6 @@ SimpleITK
 scikit-image
 scipy
 Install these packages using pip:
-
-## bash
 pip install opencv-python numpy matplotlib SimpleITK scikit-image scipy
 
 # 2. Image Patch Processing Script
@@ -42,8 +40,6 @@ numpy
 matplotlib
 scikit-learn
 Install these packages using pip:
-
-## bash
 pip install opencv-python numpy matplotlib scikit-learn
 
 # 3. Large Component Filtering Script
@@ -61,8 +57,6 @@ opencv-python
 numpy
 matplotlib
 Install these packages using pip:
-
-## bash
 pip install opencv-python numpy matplotlib
 
 # 4. Fill White Areas in Image
@@ -80,8 +74,6 @@ opencv-python
 numpy
 matplotlib
 Install these packages using pip:
-
-## bash
 pip install opencv-python numpy matplotlib
 
 Each script is designed to handle specific image processing tasks and provides batch processing capabilities for efficient handling of multiple images. Follow the installation instructions for each script to set up the necessary environment.
