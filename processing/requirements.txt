@@ -1,0 +1,7 @@
+#requirements.txt
+opencv-python
+numpy
+matplotlib
+scikit-learn
+torch
+SimpleITK
