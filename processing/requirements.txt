@@ -1,7 +1,7 @@
 #requirements.txt
-opencv-python
-numpy
-matplotlib
-scikit-learn
-torch
-SimpleITK
+opencv-python: 4.10.0.84
+NumPy: 2.1.0
+matplotlib: 3.9.2
+scikit-learn: 1.5.1
+torch: 2.4.0
+SimpleITK: 2.4.0
