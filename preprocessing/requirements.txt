@@ -1,5 +1,5 @@
 # requirements.txt
-Pillow
-numpy
-scikit-image
-opencv-python
+Pillow: 10.4.0
+NumPy: 2.1.0
+scikit-image: 0.24.0
+OpenCV-Python: 4.10.0.84
